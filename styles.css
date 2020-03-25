@@ -4,8 +4,14 @@
 
 body {
     text-align: center;
+    background-color:rgb(124, 184, 184)
 }
 
 #author {
     font-style: italic;
+}
+
+button {
+    max-width: 50%;
+    margin: auto;
 }
